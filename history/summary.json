@@ -1,5 +1,23 @@
 [
   {
+    "name": "VPN Server",
+    "url": "https://vpn.vorkane.pw",
+    "icon": "https://favicons.githubusercontent.com/vpn.vorkane.pw",
+    "slug": "vpn-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 553,
+    "timeDay": 553,
+    "timeWeek": 553,
+    "timeMonth": 553,
+    "timeYear": 553,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Foundry VTT",
     "url": "https://foundry.vorkane.pw",
     "icon": "https://favicons.githubusercontent.com/foundry.vorkane.pw",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2188,
-    "timeDay": 2188,
-    "timeWeek": 2188,
-    "timeMonth": 2188,
-    "timeYear": 2188,
+    "time": 1335,
+    "timeDay": 1335,
+    "timeWeek": 1335,
+    "timeMonth": 1335,
+    "timeYear": 1335,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 324,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   }
 ]
