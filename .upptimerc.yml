@@ -9,6 +9,10 @@ sites:
     url: https://foundry.vorkane.pw
   - name: Pterodactyl
     url: https://pterodactyl.vorkane.pw:9443
+  - name: Project Zomboid - Update 41 - Modded
+    check: "tcp-ping"
+    url: vorkane.pw
+    port: 8780
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
