@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "down",
-    "uptime": "31.82%",
+    "uptime": "31.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.53%",
-    "time": 376,
-    "timeDay": 221,
-    "timeWeek": 275,
-    "timeMonth": 304,
-    "timeYear": 308,
+    "uptimeYear": "0.25%",
+    "time": 375,
+    "timeDay": 321,
+    "timeWeek": 291,
+    "timeMonth": 303,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-06-10": 64,
+      "2023-06-11": 77,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -379,8 +380,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 48
+      "2022-06-12": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 493,
-    "timeDay": 300,
-    "timeWeek": 425,
-    "timeMonth": 520,
-    "timeYear": 476,
+    "time": 490,
+    "timeDay": 494,
+    "timeWeek": 397,
+    "timeMonth": 525,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2022-08-21": 1393,
       "2022-08-20": 47
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "67.50%",
+    "uptime": "67.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.77%",
+    "uptimeYear": "54.50%",
     "time": 341,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-06-10": 64,
+      "2023-06-11": 77,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -597,7 +598,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "25.87%",
+    "uptime": "25.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -608,7 +609,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 64,
+      "2023-06-11": 77,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -971,8 +973,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   }
 ]
