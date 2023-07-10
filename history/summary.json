@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "down",
-    "uptime": "30.18%",
+    "uptime": "30.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 361,
-    "timeDay": 245,
-    "timeWeek": 266,
+    "time": 360,
+    "timeDay": 222,
+    "timeWeek": 245,
     "timeMonth": 278,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-07-09": 80,
+      "2023-07-10": 75,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -379,8 +380,7 @@
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
-      "2022-07-11": 1440,
-      "2022-07-10": 1440
+      "2022-07-11": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 487,
-    "timeDay": 322,
-    "timeWeek": 576,
-    "timeMonth": 464,
-    "timeYear": 475,
+    "time": 482,
+    "timeDay": 321,
+    "timeWeek": 519,
+    "timeMonth": 465,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2022-08-21": 1393,
       "2022-08-20": 47
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "64.01%",
+    "uptime": "63.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.82%",
+    "uptimeYear": "46.55%",
     "time": 344,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2023-07-09": 80,
+      "2023-07-10": 75,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -626,7 +627,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "24.51%",
+    "uptime": "24.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -637,7 +638,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-09": 80,
+      "2023-07-10": 75,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -1000,8 +1002,7 @@
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
-      "2022-07-11": 1440,
-      "2022-07-10": 1440
+      "2022-07-11": 1440
     }
   }
 ]
