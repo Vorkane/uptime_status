@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "30.07%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.00%",
+    "uptime": "30.08%",
+    "uptimeDay": "8.13%",
+    "uptimeWeek": "1.16%",
+    "uptimeMonth": "1.65%",
+    "uptimeYear": "0.02%",
     "time": 360,
     "timeDay": 295,
     "timeWeek": 259,
@@ -379,8 +379,7 @@
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
-      "2022-07-12": 1440,
-      "2022-07-11": 1440
+      "2022-07-12": 1440
     }
   },
   {
@@ -410,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "63.80%",
+    "uptime": "63.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.30%",
+    "uptimeYear": "46.28%",
     "time": 345,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-07-10": 1393,
+      "2023-07-11": 69,
+      "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -638,7 +638,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-10": 1393,
+      "2023-07-11": 69,
+      "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -1001,8 +1002,7 @@
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
-      "2022-07-12": 1440,
-      "2022-07-11": 1440
+      "2022-07-12": 1440
     }
   }
 ]
