@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "35.92%",
+    "uptime": "36.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.27%",
+    "uptimeYear": "14.54%",
     "time": 329,
-    "timeDay": 220,
-    "timeWeek": 241,
-    "timeMonth": 334,
+    "timeDay": 184,
+    "timeWeek": 231,
+    "timeMonth": 331,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -327,8 +327,7 @@
       "2022-09-07": 1440,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
-      "2022-09-04": 1440,
-      "2022-09-03": 1440
+      "2022-09-04": 1440
     }
   },
   {
@@ -343,9 +342,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 489,
-    "timeDay": 451,
-    "timeWeek": 440,
-    "timeMonth": 428,
+    "timeDay": 676,
+    "timeWeek": 506,
+    "timeMonth": 439,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -358,18 +357,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "58.31%",
+    "uptime": "58.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.76%",
+    "uptimeYear": "31.49%",
     "time": 338,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 318,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2023-09-02": 49,
+      "2023-09-03": 53,
+      "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -629,7 +629,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "22.29%",
+    "uptime": "22.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -640,7 +640,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-02": 49,
+      "2023-09-03": 53,
+      "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -1003,8 +1004,7 @@
       "2022-09-07": 1440,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
-      "2022-09-04": 1440,
-      "2022-09-03": 1440
+      "2022-09-04": 1440
     }
   }
 ]
