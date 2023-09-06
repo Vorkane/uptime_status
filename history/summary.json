@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "36.23%",
+    "uptime": "36.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.09%",
+    "uptimeYear": "15.36%",
     "time": 328,
-    "timeDay": 299,
-    "timeWeek": 222,
-    "timeMonth": 322,
+    "timeDay": 189,
+    "timeWeek": 221,
+    "timeMonth": 321,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -324,8 +324,7 @@
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
-      "2022-09-07": 1440,
-      "2022-09-06": 1440
+      "2022-09-07": 1440
     }
   },
   {
@@ -339,9 +338,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 490,
-    "timeDay": 384,
-    "timeWeek": 461,
+    "time": 489,
+    "timeDay": 189,
+    "timeWeek": 420,
     "timeMonth": 434,
     "timeYear": 470,
     "dailyMinutesDown": {
@@ -355,18 +354,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "58.03%",
+    "uptime": "57.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.94%",
+    "uptimeYear": "30.67%",
     "time": 338,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2023-09-05": 50,
+      "2023-09-06": 51,
+      "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -629,7 +629,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "22.18%",
+    "uptime": "22.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -640,7 +640,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-05": 50,
+      "2023-09-06": 51,
+      "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -1003,8 +1004,7 @@
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
-      "2022-09-07": 1440,
-      "2022-09-06": 1440
+      "2022-09-07": 1440
     }
   }
 ]
