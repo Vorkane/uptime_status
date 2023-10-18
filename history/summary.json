@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "40.28%",
+    "uptime": "40.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.59%",
-    "time": 306,
-    "timeDay": 258,
-    "timeWeek": 242,
-    "timeMonth": 281,
+    "uptimeYear": "26.87%",
+    "time": 305,
+    "timeDay": 391,
+    "timeWeek": 269,
+    "timeMonth": 282,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -282,8 +282,7 @@
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
-      "2022-10-19": 1440,
-      "2022-10-18": 1440
+      "2022-10-19": 1440
     }
   },
   {
@@ -298,10 +297,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 481,
-    "timeDay": 359,
-    "timeWeek": 512,
-    "timeMonth": 407,
-    "timeYear": 454,
+    "timeDay": 534,
+    "timeWeek": 479,
+    "timeMonth": 417,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
       "2023-07-29": 47
@@ -313,18 +312,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "54.35%",
+    "uptime": "54.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.65%",
+    "uptimeYear": "27.38%",
     "time": 331,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-10-17": 52,
+      "2023-10-18": 52,
+      "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -598,7 +598,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "20.75%",
+    "uptime": "20.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -609,7 +609,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 53,
+      "2023-10-18": 52,
+      "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -972,8 +973,7 @@
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
-      "2022-10-19": 1440,
-      "2022-10-18": 1440
+      "2022-10-19": 1440
     }
   }
 ]
