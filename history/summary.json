@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.23%",
+    "uptimeYear": "31.25%",
     "time": 302,
     "timeDay": 654,
     "timeWeek": 283,
@@ -266,8 +266,7 @@
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
-      "2022-11-04": 1440,
-      "2022-11-03": 1440
+      "2022-11-04": 1440
     }
   },
   {
@@ -276,18 +275,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/foundry.vorkane.pw.ico",
     "slug": "foundry-vtt",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.63%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.71%",
     "time": 487,
     "timeDay": 460,
     "timeWeek": 978,
     "timeMonth": 566,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-11-02": 2,
+      "2023-11-03": 53,
+      "2023-11-02": 49,
       "2023-07-30": 1390,
       "2023-07-29": 47
     }
@@ -302,14 +302,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.01%",
+    "uptimeYear": "22.99%",
     "time": 332,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 303,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-11-02": 1392,
+      "2023-11-03": 53,
+      "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -599,7 +600,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "20.23%",
+    "uptime": "20.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -610,7 +611,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-02": 1392,
+      "2023-11-03": 53,
+      "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -973,8 +975,7 @@
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
-      "2022-11-04": 1440,
-      "2022-11-03": 1440
+      "2022-11-04": 1440
     }
   }
 ]
