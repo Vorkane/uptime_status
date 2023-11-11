@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "42.37%",
+    "uptime": "42.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.17%",
+    "uptimeYear": "33.44%",
     "time": 301,
-    "timeDay": 350,
-    "timeWeek": 269,
+    "timeDay": 210,
+    "timeWeek": 279,
     "timeMonth": 276,
     "timeYear": 296,
     "dailyMinutesDown": {
@@ -258,8 +258,7 @@
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
-      "2022-11-12": 1440,
-      "2022-11-11": 1440
+      "2022-11-12": 1440
     }
   },
   {
@@ -268,15 +267,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/foundry.vorkane.pw.ico",
     "slug": "foundry-vtt",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.45%",
+    "uptimeWeek": "86.73%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "99.18%",
-    "time": 483,
-    "timeDay": 335,
-    "timeWeek": 325,
-    "timeMonth": 542,
+    "time": 482,
+    "timeDay": 205,
+    "timeWeek": 315,
+    "timeMonth": 523,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2023-11-04": 1390,
@@ -292,18 +291,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "52.45%",
+    "uptime": "52.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.08%",
+    "uptimeYear": "20.80%",
     "time": 331,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 298,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-11-10": 53,
+      "2023-11-11": 52,
+      "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -601,7 +601,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "20.02%",
+    "uptime": "19.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -612,7 +612,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 53,
+      "2023-11-11": 52,
+      "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -975,8 +976,7 @@
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
-      "2022-11-12": 1440,
-      "2022-11-11": 1440
+      "2022-11-12": 1440
     }
   }
 ]
