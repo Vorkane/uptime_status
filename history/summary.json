@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "47.36%",
+    "uptime": "47.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.98%",
+    "uptimeYear": "51.25%",
     "time": 300,
-    "timeDay": 278,
-    "timeWeek": 288,
-    "timeMonth": 285,
+    "timeDay": 431,
+    "timeWeek": 318,
+    "timeMonth": 287,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -193,8 +193,7 @@
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
-      "2023-01-16": 1440,
-      "2023-01-15": 1440
+      "2023-01-16": 1440
     }
   },
   {
@@ -209,10 +208,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 449,
-    "timeDay": 239,
-    "timeWeek": 291,
-    "timeMonth": 335,
-    "timeYear": 446,
+    "timeDay": 473,
+    "timeWeek": 312,
+    "timeMonth": 332,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2023-11-04": 1390,
       "2023-11-03": 1440,
@@ -227,18 +226,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "47.91%",
+    "uptime": "47.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.27%",
-    "time": 319,
+    "uptimeYear": "2.99%",
+    "time": 318,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 229,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-01-14": 60,
+      "2024-01-15": 58,
+      "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
@@ -601,7 +601,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "18.26%",
+    "uptime": "18.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -612,7 +612,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-14": 60,
+      "2024-01-15": 58,
+      "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
@@ -975,8 +976,7 @@
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
-      "2023-01-16": 1440,
-      "2023-01-15": 1440
+      "2023-01-16": 1440
     }
   }
 ]
