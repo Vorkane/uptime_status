@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "47.49%",
+    "uptime": "47.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.53%",
+    "uptimeYear": "51.80%",
     "time": 300,
-    "timeDay": 576,
-    "timeWeek": 373,
-    "timeMonth": 298,
+    "timeDay": 176,
+    "timeWeek": 340,
+    "timeMonth": 296,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -191,8 +191,7 @@
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
-      "2023-01-18": 1440,
-      "2023-01-17": 1440
+      "2023-01-18": 1440
     }
   },
   {
@@ -207,8 +206,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 448,
-    "timeDay": 372,
-    "timeWeek": 325,
+    "timeDay": 274,
+    "timeWeek": 322,
     "timeMonth": 335,
     "timeYear": 447,
     "dailyMinutesDown": {
@@ -225,18 +224,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "47.78%",
+    "uptime": "47.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.72%",
+    "uptimeYear": "2.45%",
     "time": 319,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 229,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-01-16": 56,
+      "2024-01-17": 56,
+      "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -601,7 +601,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "18.21%",
+    "uptime": "18.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -612,7 +612,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 56,
+      "2024-01-17": 56,
+      "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -975,8 +976,7 @@
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
-      "2023-01-18": 1440,
-      "2023-01-17": 1440
+      "2023-01-18": 1440
     }
   }
 ]
