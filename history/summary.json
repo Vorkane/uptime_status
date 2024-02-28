@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "50.27%",
+    "uptime": "50.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.03%",
+    "uptimeYear": "63.31%",
     "time": 299,
-    "timeDay": 213,
-    "timeWeek": 246,
-    "timeMonth": 309,
+    "timeDay": 347,
+    "timeWeek": 277,
+    "timeMonth": 316,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -149,8 +149,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 1440,
-      "2023-02-28": 1440
+      "2023-03-01": 1440
     }
   },
   {
@@ -164,11 +163,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 433,
-    "timeDay": 361,
-    "timeWeek": 299,
-    "timeMonth": 344,
-    "timeYear": 444,
+    "time": 432,
+    "timeDay": 183,
+    "timeWeek": 280,
+    "timeMonth": 345,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2023-11-04": 1390,
       "2023-11-03": 1440,
@@ -183,18 +182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "45.26%",
+    "uptime": "45.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 316,
+    "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-27": 51,
+      "2024-02-28": 51,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -557,8 +557,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 1440,
-      "2023-02-28": 1440
+      "2023-03-01": 1440
     }
   },
   {
@@ -567,7 +566,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "17.24%",
+    "uptime": "17.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -578,7 +577,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-27": 51,
+      "2024-02-28": 51,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -941,8 +941,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 1440,
-      "2023-02-28": 1440
+      "2023-03-01": 1440
     }
   }
 ]
