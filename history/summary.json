@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "51.55%",
+    "uptime": "51.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.51%",
+    "uptimeYear": "68.79%",
     "time": 300,
-    "timeDay": 195,
-    "timeWeek": 328,
-    "timeMonth": 309,
+    "timeDay": 349,
+    "timeWeek": 344,
+    "timeMonth": 310,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -128,8 +128,7 @@
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
-      "2023-03-22": 1440,
-      "2023-03-21": 1440
+      "2023-03-22": 1440
     }
   },
   {
@@ -144,8 +143,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 430,
-    "timeDay": 365,
-    "timeWeek": 321,
+    "timeDay": 384,
+    "timeWeek": 342,
     "timeMonth": 326,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -162,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "44.09%",
+    "uptime": "44.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -173,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-19": 52,
+      "2024-03-20": 52,
+      "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
@@ -536,8 +536,7 @@
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
-      "2023-03-22": 1440,
-      "2023-03-21": 1440
+      "2023-03-22": 1440
     }
   },
   {
@@ -546,7 +545,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "16.79%",
+    "uptime": "16.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -557,7 +556,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-19": 52,
+      "2024-03-20": 52,
+      "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
@@ -920,8 +920,7 @@
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
-      "2023-03-22": 1440,
-      "2023-03-21": 1440
+      "2023-03-22": 1440
     }
   }
 ]
