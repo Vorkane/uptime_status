@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.vorkane.pw.ico",
     "slug": "vpn-server",
     "status": "up",
-    "uptime": "51.67%",
+    "uptime": "51.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.06%",
+    "uptimeYear": "69.33%",
     "time": 300,
-    "timeDay": 216,
+    "timeDay": 355,
     "timeWeek": 325,
-    "timeMonth": 313,
+    "timeMonth": 318,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-07-30": 1390,
@@ -126,8 +126,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -142,10 +141,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 430,
-    "timeDay": 239,
-    "timeWeek": 327,
-    "timeMonth": 324,
-    "timeYear": 438,
+    "timeDay": 241,
+    "timeWeek": 313,
+    "timeMonth": 323,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2023-11-04": 1390,
       "2023-11-03": 1440,
@@ -160,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.vorkane.pw.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "43.99%",
+    "uptime": "43.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -171,7 +170,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-21": 53,
+      "2024-03-22": 52,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -534,8 +534,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -544,7 +543,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-zomboid-update-41-modded",
     "status": "down",
-    "uptime": "16.75%",
+    "uptime": "16.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -555,7 +554,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-21": 54,
+      "2024-03-22": 52,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -918,8 +918,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   }
 ]
